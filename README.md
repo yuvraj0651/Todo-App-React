@@ -1,4 +1,4 @@
-# ✅ Todo App - React 🚀
+# ✅ Todo App - React 
 
 ## 📌 Overview
 A simple and efficient Todo application built with React that allows users to manage daily tasks with CRUD operations and a clean user-friendly interface.
